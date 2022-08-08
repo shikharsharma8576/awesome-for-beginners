@@ -1,6 +1,6 @@
 [![Doppler](assets/doppler.png)](https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomeforbeginners&utm_source=github)
 
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# New Branch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This list of awesome beginner-friendly projects is sponsored by [Doppler](https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesomeforbeginners&utm_source=github) – convenient and secure way to manage all your environment variables.
 
@@ -8,7 +8,6 @@ Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) b
 
 If you are a maintainer of open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
 
-If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
 ## Table of Contents:
 
@@ -26,17 +25,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
-- [LaTeX](#latex)
-- [Markdown](#markdown)
-- [Perl](#perl)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [Smalltalk](#smalltalk)
-- [Swift](#swift)
-- [TypeScript](#typescript)
+
 
 ## .NET
 
